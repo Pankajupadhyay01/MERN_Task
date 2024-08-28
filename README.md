@@ -1,3 +1,18 @@
+## Please Create 2 env one on the backend folder and the other in the front End folder name of the env as .env
+
+# env for backend
+
+MONGO_URI = "mongodb://localhost:27017/Help_center"
+
+PORT = 4000
+
+# env for frontend
+VITE_API = "http://localhost:4000/api/v1"
+
+
+
+
+
 # Help Center API Assignment
 
 ## Instructions
