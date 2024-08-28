@@ -1,4 +1,4 @@
-## Please Create 2 env one on the backend folder and the other in the front End folder name of the env as .env
+## Please Create 2 env one on the backend folder and the other in the front End folder name the env file as .env on both folder
 
 # env for backend
 
